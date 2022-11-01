@@ -3,7 +3,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=tokyonight&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;+I'm+Ahmed;+I'm++a+Frontend+Developer;I'm+obsessed+about+writing+Clean+Code;I'm+interested+in+Machine+Learning%E2%9C%A8;I'm+looking+to+collaborate+on+any;Frontend+project)](https://git.io/typing-svg) -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=tokyonight&center=true&vCenter=true&width=435&lines=HELLO+THERE!;I'm+Ahmed;I'm++a+Frontend+Developer;I'm+obsessed+about+writing+Clean+Code;I'm+interested+in+Machine+Learning+%E2%9C%A8;I'm+looking+to+collaborate+on+any;Frontend+Project" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=tokyonight&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;I'm+Ahmed;I'm++a+Frontend+Developer;I'm+obsessed+about+writing+Clean+Code;I'm+interested+in+Machine+Learning+%E2%9C%A8;I'm+looking+to+collaborate+on+any;Frontend+Project" alt="Typing SVG" /></a>
 
 - ⚡ Fun fact: <blockquote> Still searching for the day I can close all the tabs running in my head 😅.</blockquote>
 - <p align="center" height="500%"> <img src=https://github.com/AhmedSarkies/AhmedSarkies/blob/main/source.gif /> </p>
