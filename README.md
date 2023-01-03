@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=tokyonight&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;I'm+Ahmed;I'm++a+Frontend+Developer;I'm+obsessed+about+writing+Clean+Code;I'm+interested+in+Machine+Learning+%E2%9C%A8;I'm+looking+to+collaborate+on+any;Frontend+project" alt="Hi 👋, I'm Ahmed Sarkies" /></a>
 
 - ⚡ Fun fact: <blockquote> Still searching for the day I can close all the tabs running in my head 😅.</blockquote>
-- <p align="center" height="500%"> <img src=https://github.com/AhmedSarkies/AhmedSarkies/blob/main/source.gif /> </p>
+- <p align="center" height="500%"> <img src=https://github.com/AhmedSarkies/AhmedSarkies/main/source.gif /> </p>
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedSarkies&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedSarkies" /> </p>
 <!--  <img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="" width="250" height="200"> -->
 <h3 align="left">Connect with me:</h3>
